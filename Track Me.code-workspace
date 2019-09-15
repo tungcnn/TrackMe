@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "api"
+		},
+		{
+			"path": "web"
+		},
+		{
+			"path": "mqtt"
+		},
+		{
+			"path": "web-reactjs"
+		}
+	],
+	"settings": {}
+}
